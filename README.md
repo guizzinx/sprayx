@@ -1,7 +1,7 @@
 <p align="center">
     <br>
     <samp>
-        Hello there! I'm <b>Spray.</b>.
+        Hello there! I'm <b>Spray.</b>
         <br> I’m currently learning <b>C/GoLang</b>
         <br>
     </samp>
